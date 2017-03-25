@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "async": "^2.1.5",
+    "newman": "^3.5.2"
+  },
+  "name": "postman-experiment",
+  "version": "1.0.0",
+  "main": "postman_parallel.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

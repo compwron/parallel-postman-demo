@@ -1,0 +1,21 @@
+{
+	"variables": [],
+	"info": {
+		"name": "postman_collection",
+		"_postman_id": "7a041073-a059-e741-01fa-abf50e5d3d2f",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://example.com",
+			"request": {
+				"url": "http://example.com",
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
